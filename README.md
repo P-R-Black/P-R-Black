@@ -2,7 +2,7 @@
 
 - 🖥️ I’ve been coding in Python for the past six years and React for the past two years.
 - 📓 I’m currently learning React Native.
-- 📚 I'm currently reading "Advanced React: Deep dives, investigations, performance patterns and techniques" by Nadia Makarevich
+- 📚 I'm currently reading "Head First Design Patterns" by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
 - 📫 How to reach me: ramoneblack@icloud.com.
 - ⚡ Fun fact about me: When I'm not coding, I'm thinking about the next version of the internet and what company/companies will have the most influence in it.
 <!--
