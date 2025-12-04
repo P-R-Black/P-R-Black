@@ -1,8 +1,8 @@
 ## Hi, I'm Paul Black
 
-- 🖥️ I’ve been coding in Python for the past six years and React for the past two years.
-- 📓 I’m currently learning React Native.
-- 📚 I'm currently reading "Head First Design Patterns" by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+- 🖥️ I’ve been coding in Python for the past seven years and React for the past two years.
+- 📓 I’m currently working with Django.
+- 📚 I'm currently reading "Why Nations Fail" by Daron Acemoglu and James A. Robinson
 - 📫 How to reach me: ramoneblack@icloud.com.
 - ⚡ Fun fact about me: When I'm not coding, I'm thinking about the next version of the internet and what company/companies will have the most influence in it.
 <!--
