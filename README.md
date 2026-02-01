@@ -1,6 +1,6 @@
 ## Hi, I'm Paul Black
 
-- 🖥️ I’ve been coding in Python for the past seven years and React for the past two years.
+- 🖥️ I’ve been coding in Python for the past eight years and React for the past three years.
 - 📓 I’m currently working with Django.
 - 📚 I'm currently reading "Why Nations Fail" by Daron Acemoglu and James A. Robinson
 - 📫 How to reach me: ramoneblack@icloud.com.
