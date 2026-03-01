@@ -2,7 +2,7 @@
 
 - 🖥️ I’ve been coding in Python for the past eight years and React for the past three years.
 - 📓 I’m currently working with Django.
-- 📚 I'm currently reading "Algorithms to Live By" by Brian Christian
+- 📚 I'm currently reading "The Sorrows of Young Werther" by Johann Wolfgang von Goethe
 - 📫 How to reach me: ramoneblack@icloud.com.
 - ⚡ Fun fact about me: When I'm not coding, I'm thinking about the next version of the internet and what company/companies will have the most influence in it.
 <!--
